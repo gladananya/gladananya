@@ -15,20 +15,20 @@
 Projects　✧　Tech Stack　✧　GitHub Stats
 </div>
 
-🌷 A little about me
+ A little about me
 Hi! I'm Ananya — I love exploring how AI can turn complex ideas into useful, thoughtful products. My work sits at the intersection of deep learning, computer vision, healthcare AI, and multi-agent systems.
-- 🎀 I enjoy building projects that combine research with practical applications.
-- 🧠 Curious about intelligent agents, model evaluation, and explainable AI.
-- 🪄 I care about making AI systems not only impressive, but also useful and reliable.
-- 🌸 Currently exploring ideas, experimenting, and learning by building.
-✨ A few things I've built
+-  I enjoy building projects that combine research with practical applications.
+-  Curious about intelligent agents, model evaluation, and explainable AI.
+-  I care about making AI systems not only impressive, but also useful and reliable.
+-  Currently exploring ideas, experimenting, and learning by building.
+   A few things I've built
 <table>
 <tr>
 <td width="50%" valign="top">
 
 <div align="center">
   <img src="https://img.shields.io/badge/01-PRISM%20BLUR%20BG-E8C8FF?style=for-the-badge&labelColor=FFF4FC&color=D9B5F5" alt="Prism Blur BG" />
-  <h3>🔮 Prism Blur BG</h3>
+  <h3> Prism Blur BG</h3>
   <em>Making blurry images clearer, one pixel at a time.</em>
 </div>
 
@@ -48,7 +48,7 @@ What makes it interesting
 
 <div align="center">
   <img src="https://img.shields.io/badge/02-MAACS-CCF2E8?style=for-the-badge&labelColor=F0FFFA&color=A7E5D5" alt="MAACS" />
-  <h3>🩺 MAACS</h3>
+  <h3> MAACS</h3>
   <em>AI-assisted fetal ultrasound analysis.</em>
 </div>
 
@@ -73,18 +73,18 @@ What makes it interesting
 
 <div align="center">
   <img src="https://img.shields.io/badge/03-MULTI--AGENT%20MOCK%20INTERVIEW%20COACH-D6E4FF?style=for-the-badge&labelColor=F5F8FF&color=B8CCFF" alt="Multi-Agent Mock Interview Coach" />
-  <h3>🤖 Multi-Agent Mock Interview Coach</h3>
+  <h3> Multi-Agent Mock Interview Coach</h3>
   <em>A personal interview practice space that learns where you need to improve.</em>
 </div>
 
 
 A multi-agent application that adapts interview practice to weaker topics, finds company- and role-relevant questions, and evaluates coding answers by executing them in a sandbox.
 Feature	How it helps
-🧭 Adaptive planner	Revisits weaker topics and adjusts difficulty
-🔎 Question sourcing	Uses live search and Codeforces with fallbacks
-🧪 Code execution	Checks submitted solutions through Judge0
-🎙️ Communication feedback	Scores speaking pace and filler words separately
-📄 Resume-aware practice	Grounds questions in the candidate's resume
+ Adaptive planner	Revisits weaker topics and adjusts difficulty
+ Question sourcing	Uses live search and Codeforces with fallbacks
+ Code execution	Checks submitted solutions through Judge0
+ Communication feedback	Scores speaking pace and filler words separately
+ Resume-aware practice	Grounds questions in the candidate's resume
 
 
 Built with: Python · LangGraph · Groq · Tavily · Codeforces API · Judge0 · Streamlit · SQLite
@@ -116,7 +116,7 @@ Apps & Developer Tools
 
 </div>
 
-💗 The GitHub corner
+ The GitHub corner
 <div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=gladananya&show_icons=true&hide_border=true&rank_icon=github&bg_color=FFF7FC&title_color=BA6FA8&text_color=6C5A70&icon_color=C78DCE" alt="GitHub statistics" />
@@ -132,8 +132,8 @@ Apps & Developer Tools
 
 <div align="center">
 
-🌙 Thanks for visiting my little corner of GitHub!
-Stay curious. Keep creating. Let the ideas bloom. 🌷
+ Thanks for visiting my little corner of GitHub!
+Stay curious. Keep creating. Let the ideas bloom. 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC6E5,45:DCCBFF,100:B8E7FF&height=100&section=footer" width="100%" alt="" />
 
 </div>
