@@ -1,7 +1,4 @@
-!--
-  Profile README for https://github.com/gladananya
-  Create a public repository named exactly "gladananya" and add this file as README.md.
--->
+
 
 <div align="center">
 
