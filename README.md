@@ -41,7 +41,6 @@ What makes it interesting
 - ✧ Real-time preview mode
 <div align="center">
 
-Explore Prism Blur BG ↗
 </div>
 
 </td>
@@ -63,7 +62,6 @@ What makes it interesting
 - ✧ Grad-CAM++ explainability and MC Dropout uncertainty estimation
 <div align="center">
 
-Explore MAACS ↗
 </div>
 
 
@@ -93,7 +91,6 @@ Built with: Python · LangGraph · Groq · Tavily · Codeforces API · Judge0 ·
 <div align="center">
 
 
-Explore the Interview Coach ↗
 </div>
 
 </td>
